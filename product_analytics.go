@@ -1,6 +1,6 @@
 package product_analytics
 
-type ProductAnalyticsClient interface {
+type Client interface {
 	SetUserID(string)
 
 	SendEvent(string, map[string]any)

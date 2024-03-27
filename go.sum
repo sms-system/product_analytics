@@ -1,0 +1,4 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/posthog/posthog-go v0.0.0-20240327112532-87b23fe11103 h1:YEWdfKVtz5Db85b8RLIZ1IY3PLSB1fW49hvK2yIL6JU=
+github.com/posthog/posthog-go v0.0.0-20240327112532-87b23fe11103/go.mod h1:QjlpryJtfYLrZF2GUkAhejH4E7WlDbdKkvOi5hLmkdg=

@@ -9,7 +9,7 @@ type client_wrap struct {
 	userID string
 }
 
-func NewProductAnalyticsClient(api_key string, host string) (ProductAnalyticsClient, error) {
+func NewClient(api_key string, host string) (ProductAnalyticsClient, error) {
 	client, err := posthog.NewWithConfig(api_key, posthog.Config{
 		Endpoint: host,
 	})
